@@ -1,6 +1,6 @@
 cask "lanes" do
-  version "0.6.1"
-  sha256 "00ec65e8e20a7d3af717481275b096e4932500025ae4e8c30611abbea9f3e85a"
+  version "0.6.2"
+  sha256 "28cfd16c795c4aae1c8ff38779d28b579e28fea8e604206932881c078709e3ef"
 
   url "https://github.com/eliasbui/lanes/releases/download/v#{version}/Lanes-#{version}-macos.zip"
   name "Lanes"
